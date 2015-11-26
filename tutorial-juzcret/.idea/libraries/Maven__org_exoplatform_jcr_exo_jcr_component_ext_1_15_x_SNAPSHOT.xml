@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.jcr:exo.jcr.component.ext:1.15.x-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.ext/1.15.x-SNAPSHOT/exo.jcr.component.ext-1.15.x-20151121.152006-166.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.ext/1.15.x-SNAPSHOT/exo.jcr.component.ext-1.15.x-20151121.152006-166-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.ext/1.15.x-SNAPSHOT/exo.jcr.component.ext-1.15.x-20151121.152006-166-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

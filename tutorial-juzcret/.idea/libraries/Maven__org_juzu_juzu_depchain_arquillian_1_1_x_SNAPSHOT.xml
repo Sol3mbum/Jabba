@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.juzu:juzu-depchain-arquillian:1.1.x-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-depchain-arquillian/1.1.x-SNAPSHOT/juzu-depchain-arquillian-1.1.x-20151121.125025-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-depchain-arquillian/1.1.x-SNAPSHOT/juzu-depchain-arquillian-1.1.x-20151121.125025-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-depchain-arquillian/1.1.x-SNAPSHOT/juzu-depchain-arquillian-1.1.x-20151121.125025-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.kernel:exo.kernel.component.cache:2.4.x-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/kernel/exo.kernel.component.cache/2.4.x-SNAPSHOT/exo.kernel.component.cache-2.4.x-20151114.131202-87.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/kernel/exo.kernel.component.cache/2.4.x-SNAPSHOT/exo.kernel.component.cache-2.4.x-20151114.131202-87-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/kernel/exo.kernel.component.cache/2.4.x-SNAPSHOT/exo.kernel.component.cache-2.4.x-20151114.131202-87-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
